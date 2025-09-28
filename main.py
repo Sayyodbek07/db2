@@ -1,6 +1,6 @@
 # --1. vazifa
 # SELECT *
-# FROM products
+# FROM customers
 #
 #
 # --2. vazifa
